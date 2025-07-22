@@ -1,0 +1,11 @@
+venv/
+.env/
+.venv/
+__pycache__/
+*.pyc   
+*.pyo
+*.pyd
+data/dataset-of-pdf-files
+# data/processed_docs
+
+.vscode/
